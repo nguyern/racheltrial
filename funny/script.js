@@ -19,6 +19,8 @@ var data = [
       &lt;/head&gt;<br/>
       &lt;body&gt;<br/>
       <span class="tab1"></span>&lt;h1&gt; do you think i'm cute? be honest like if you don't like me you can let me know like i won't even be hurt. &lt;/h1&gt;<br/>
+      &lt;/body&gt;<br/>
+      &lt;/html&gt;<br/>
     `,
   },
 ];
